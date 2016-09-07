@@ -23,3 +23,4 @@ def split_record_line(record_line):
     print('Param:' + str(params))
 
 record = Record('1=1,2=2,3=3')
+record = Record('1=1,2=2,3=3')
